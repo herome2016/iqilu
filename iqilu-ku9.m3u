@@ -25,10 +25,6 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=23&num=0
 #EXTINF:-1 tvg-logo="",桓台电视台第二套节目
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=23&num=1
-#EXTINF:-1 tvg-logo="http://img11.iqilu.com/27/2019/08/13/61316178e7253c638afd7701278185a5.jpg",定陶综合频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=27&num=0
-#EXTINF:-1 tvg-logo="http://img11.iqilu.com/27/2019/08/13/68e6240eb2245dec5f06f5031381f319.jpg",定陶综艺频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=27&num=1
 #EXTINF:-1 tvg-logo="http://img11.iqilu.com/31/2019/07/31/d68d8dbd61ef2687dee9c21e295065c3.jpg",茌平综合
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=31&num=0
 #EXTINF:-1 tvg-logo="http://img11.iqilu.com/31/2019/07/31/58f4f5b2c533d578f2abdd6336da806d.jpg",茌平生活
@@ -37,8 +33,12 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=33&num=0
 #EXTINF:-1 tvg-logo="http://img11.iqilu.com/33/2019/07/12/f74dfa6d223fb23afc9371f565f1bbd1.jpg",武城综艺影视频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=33&num=1
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/37/2020/09/07/a4fbb22f6fc7e0b4c7da05c43833d5bd.png",薛城新闻综合频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=37&num=0
+#EXTINF:-1 tvg-logo="",新闻综合频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=39&num=0
+#EXTINF:-1 tvg-logo="",生活服务频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=39&num=1
+#EXTINF:-1 tvg-logo="",经济频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=39&num=2
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/41/2022/03/11/0c0b9317dc73563318f34394d6930953.png",费县综合
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=41&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/41/2022/03/11/0c0b9317dc73563318f34394d6930953.png",费县生活
@@ -61,14 +61,14 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=53&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/53/2019/11/05/7eadc253cdeb83765cc0619d543c8f31.jpg",微山电视第二频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=53&num=1
+#EXTINF:-1 tvg-logo="http://img11.iqilu.com/55/2019/08/14/eb2df86cac178b0f56a65c579c9f3c07.jpg",招远综合频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=55&num=0
+#EXTINF:-1 tvg-logo="https://img11.iqilu.com/55/2022/09/27/f6cf264a2f0ef068908f7eb25c252ff8.jpg",招远综艺频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=55&num=1
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/57/2020/04/02/d2f122979640616e5b3e56a28bc5ba3f.png",龙口综合
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=57&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/57/2020/04/02/a2ae029ad7a3ed35bb0dc8d2353fb374.png",龙口生活
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=57&num=1
-#EXTINF:-1 tvg-logo="",新泰综合频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=59&num=0
-#EXTINF:-1 tvg-logo="",新泰乡村频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=59&num=1
 #EXTINF:-1 tvg-logo="",高青一套
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=61&num=0
 #EXTINF:-1 tvg-logo="",高青二套
@@ -77,12 +77,14 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=63&num=0
 #EXTINF:-1 tvg-logo="http://img11.iqilu.com/63/2019/10/22/c32cf58cfebc6f0c6f3a577da015f29c.png",鱼台生活频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=63&num=1
-#EXTINF:-1 tvg-logo="http://img11.iqilu.com/69/2019/10/07/f7efaee95d53ead5fbd2b81a3bf7b957.jpg",兰陵综合
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=69&num=1
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/71/2021/04/18/016dce0ffb08811432ccde33ec6118c8.jpg",新闻综合
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=71&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/71/2021/04/18/016dce0ffb08811432ccde33ec6118c8.jpg",党建农科
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=71&num=1
+#EXTINF:-1 tvg-logo="http://img11.iqilu.com/73/2019/10/28/01b9a482dad69c1438fdf43004a3f55c.jpg",新闻综合
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=73&num=0
+#EXTINF:-1 tvg-logo="http://img11.iqilu.com/73/2019/10/28/4b3ee74f6156d7bffbb6d7cf1a9b40ae.jpg",影视娱乐
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=73&num=1
 #EXTINF:-1 tvg-logo="http://img11.iqilu.com/75/2019/09/03/6bad20ae6efab5b92999cbfe2ab70c8a.png",新闻频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=75&num=0
 #EXTINF:-1 tvg-logo="http://img11.iqilu.com/75/2019/09/03/b9740736afa183a581fcb1ed2528c98f.png",生活频道
@@ -103,24 +105,24 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=83&num=0
 #EXTINF:-1 tvg-logo="http://img11.iqilu.com/83/2019/09/16/3ac28dcb76c5662f2d56fd42cd2891cd.jpg",郯城TV-2
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=83&num=1
-#EXTINF:-1 tvg-logo="http://img11.iqilu.com/85/2019/09/20/b01e3a145ebb3bf45c3be7f6a5eb5563.jpg",济阳综合
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=85&num=0
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/85/2019/11/04/16f811e37834aa6920557211b5bcdd03.jpg",济阳影视
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=85&num=1
-#EXTINF:-1 tvg-logo="http://img11.iqilu.com/87/2019/09/20/27e5f82087162733038d42dd51e31c9a.png",曹县融媒体中心综合频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=87&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/89/2021/06/22/50ade81b4e4ae5626f182bac7d504e1b.png",梁山综合
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=89&num=0
+#EXTINF:-1 tvg-logo="http://img11.iqilu.com/91/2019/09/23/b1ce271fdfe56bbf19903bab8fd5257f.jpg",文登一台
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=91&num=0
+#EXTINF:-1 tvg-logo="http://img11.iqilu.com/91/2019/09/23/78f22c7dfcdc0becef63d652450d7887.jpg",文登二台
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=91&num=1
+#EXTINF:-1 tvg-logo="https://img11.litenews.cn/91/2023/05/10/cfca53779ef767bfe50941a0271427df.jpg",电台直播
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=91&num=2
 #EXTINF:-1 tvg-logo="https://img11.litenews.cn/95/2024/09/24/da0176a6121c5221eeedccc5de4693af.jpg",东阿县融媒体中心新闻综合频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=95&num=0
 #EXTINF:-1 tvg-logo="https://img11.litenews.cn/95/2024/09/24/da0176a6121c5221eeedccc5de4693af.jpg",东阿县融媒体中心综合信息频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=95&num=1
 #EXTINF:-1 tvg-logo="",洛神湖慢直播
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=95&num=2
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/97/2022/04/28/f2df22ef9401d4e9a6317d8bce36541c.jpg",商河综合频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=97&num=0
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/97/2022/04/28/3ee219f867bd346f35efb27e60baf4b9.jpg",商河影视频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=97&num=1
+#EXTINF:-1 tvg-logo="http://img11.iqilu.com/101/2019/10/11/cac3a6d980a083b956f32af413efc02f.jpg",ZDTV-1
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=101&num=0
+#EXTINF:-1 tvg-logo="http://img11.iqilu.com/101/2019/10/11/b1f16c2c98d409daeffcc3a220d9a736.jpg",ZDTV-2
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=101&num=1
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/103/2019/11/28/e920129c09d677aefd403e272d379d70.jpg",滕州新闻综合频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=103&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/105/2019/11/27/f523d212792fac8d2236470ee3b3eae2.jpg",莒南综合频道
@@ -133,14 +135,6 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=109&num=1
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/111/2020/02/21/973752d4ed7ac0ce07e3b0bebc3ae09e.jpg",新闻综合频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=111&num=0
-#EXTINF:-1 tvg-logo="https://img11.litenews.cn/113/2024/08/19/1f07b4f5b8749820a9f59d010a3f8fed.jpg",兰陵综合
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=113&num=0
-#EXTINF:-1 tvg-logo="https://img11.litenews.cn/113/2024/08/19/1f07b4f5b8749820a9f59d010a3f8fed.jpg",兰陵公共
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=113&num=1
-#EXTINF:-1 tvg-logo="https://img11.litenews.cn/113/2023/08/15/40d9e4478ba2de8211df8ee0fc02143c.jpg",听广播
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=113&num=3
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/113/2023/01/19/1729c427905094acc4c187f4d91cd192.png",FM100.1
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=113&num=5
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/115/2020/04/17/e1074de915f68092198eaf851edd20e9.jpg",诸城新闻综合
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=115&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/115/2021/11/22/d502a170c690601477ac32e836db60f7.jpg",诸城生活娱乐
@@ -163,10 +157,6 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=121&num=0
 #EXTINF:-1 tvg-logo="",齐鲁频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=121&num=1
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/123/2020/03/13/242cdc084f028417f3b231396b890e79.jpg",宁阳综合频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=123&num=0
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/123/2020/03/13/364336f843474d52af46361bc3d168eb.jpg",宁阳-2
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=123&num=1
 #EXTINF:-1 tvg-logo="",【青州】综合
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=125&num=0
 #EXTINF:-1 tvg-logo="",【青州】文化旅游
@@ -181,6 +171,8 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=131&num=0
 #EXTINF:-1 tvg-logo="http://img11.iqilu.com/131/2019/10/18/89010ea387ffa2079662899715859ae4.jpg",综艺频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=131&num=1
+#EXTINF:-1 tvg-logo="",寒亭新闻频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=133&num=0
 #EXTINF:-1 tvg-logo="http://img11.iqilu.com/137/2019/10/29/3e8ff94691a06f9b9dccc9c0f9ef0c5f.jpg",新闻综合
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=137&num=0
 #EXTINF:-1 tvg-logo="http://img11.iqilu.com/137/2019/10/29/50179260359a51bb7c2da20aed87a036.jpg",民生频道
@@ -199,18 +191,10 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=145&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/145/2022/10/18/352a862dceb2fda3f271761ac2d267fe.jpg",沂水生活
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=145&num=1
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/147/2019/12/18/66453af311ed1ea8a1bdfabec4d40145.jpg",罗庄综合
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=147&num=0
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/147/2022/01/21/de7869a1982a2054835b4591e1421721.png",罗庄影视
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=147&num=1
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/151/2019/12/12/94061cbdc6f8f2afe2a690340d67be19.jpg",LZTV-1新闻综合频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=151&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/151/2019/12/12/f901bf72ce0667bc5bd6483fe8e9412d.jpg",LZTV-2生活服务频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=151&num=1
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/153/2020/09/18/9455b1d78c6beadd88fe4d41d94f943a.jpg",综合频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=153&num=0
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/153/2020/09/18/ab9930d5ab27b4c9d4f1842595884885.jpg",文化生活频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=153&num=1
 #EXTINF:-1 tvg-logo="https://img11.litenews.cn/155/2025/07/19/1db97407e6df41848140de9a6ab4466e.jpg",经典剧场
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=155&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/155/2019/12/30/c7a1f4297e54deeedec8f6eba6ee77b3.jpeg",单县新闻综合频道
@@ -231,6 +215,10 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=161&num=0
 #EXTINF:-1 tvg-logo="",蒙阴TV—2
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=161&num=1
+#EXTINF:-1 tvg-logo="",新闻综合频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=163&num=0
+#EXTINF:-1 tvg-logo="",科教影视频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=163&num=1
 #EXTINF:-1 tvg-logo="",栖霞市综合频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=165&num=0
 #EXTINF:-1 tvg-logo="",栖霞市苹果频道
@@ -247,6 +235,8 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=171&num=1
 #EXTINF:-1 tvg-logo="",QTV-李沧
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=173&num=0
+#EXTINF:-1 tvg-logo="https://img11.iqilu.com/175/2021/04/22/c2b48fd7e114905ce8ca97a56236ac5f.png",长岛电视台
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=175&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/177/2020/01/01/5e3270a9bad58efbffd74af2b9142654.jpg",沂南综合频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=177&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/177/2020/01/01/f296fc2db31f96d712896b94876cfaae.jpg",沂南红色影视
@@ -287,10 +277,6 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=179&num=16
 #EXTINF:-1 tvg-logo="https://img11.litenews.cn/179/2024/04/08/3adadfb40e8bb5443244e66357543405.jpg",乐陵城市生活
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=179&num=17
-#EXTINF:-1 tvg-logo="https://elivealone302.litenews.cn/181/BpNavSc84bahjgR5rAN6d6FCKGh7sKJN/playlist.m3u8",邹城综合频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=181&num=0
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/181/2020/04/08/7fddab13949d229dd7da516a5ef0e53a.jpg",邹城文化生活频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=181&num=1
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/183/2022/12/07/558d8dd73d3917138e19f1b0557fbcbb.jpg",莘县综合
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=183&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/183/2022/12/07/5496a4bc425ed0f6a01e89ba34299657.png",莘县二台
@@ -305,18 +291,12 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=189&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/189/2020/05/22/c484fc67fc8210e2e23416b32c901b5e.jpg",福山生活频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=189&num=1
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/191/2020/05/18/93e05cf96912049bc9ac5f9cd801e37f.png",河东综合频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=191&num=0
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/191/2020/05/18/93e05cf96912049bc9ac5f9cd801e37f.png",河东影视频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=191&num=1
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/193/2020/05/07/d48e62ef6bd3a8c00a3bb162e03f5710.jpg",宁津融媒体中心综合频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=193&num=0
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/193/2020/05/07/499713fd013bab483da8311714f4f726.jpg",宁津县融媒体中心综合广播视频直播
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=193&num=1
 #EXTINF:-1 tvg-logo="",章丘综合
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=195&num=0
 #EXTINF:-1 tvg-logo="",章丘TV-2
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=195&num=1
+#EXTINF:-1 tvg-logo="https://img11.iqilu.com/199/2020/04/28/1c96cd9c400393fb54b82e21c6f8676d.jpg",滨海新闻综合频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=199&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/201/2020/07/21/1a71813c745b988a54a087562aad5f3a.png",兰山电视
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=201&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/203/2020/07/11/ba94fb07621913c2b59bdb6273325e3e.png",沂源综合频道
@@ -329,12 +309,12 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=207&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/207/2021/01/16/1e6d79d9549ba147584a1699aba752b5.jpg",生活频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=207&num=1
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/209/2020/11/02/b960796a49126b27b1caa3abfcea243c.jpg",峄城综合
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=209&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/211/2020/01/10/a2a8b8055ab19876495f99153350c3e8.jpg",惠民综合频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=211&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/211/2020/01/10/4668b6ad7cb7e5fa91e65436231e540b.jpg",惠民公共文化频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=211&num=1
+#EXTINF:-1 tvg-logo="https://img11.litenews.cn/213/2023/09/08/24e79918c64f25acc1aab5593ccb20e9.png",环翠综合频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=213&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/215/2020/03/10/0ef7e1059e45042c075bd7b0fd50c4d4.jpg",综合频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=215&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/217/2021/12/03/76a0a9a52870f813980b84449f65cc0c.png",阳信新闻
@@ -353,6 +333,10 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=221&num=2
 #EXTINF:-1 tvg-logo="https://alivealone302.litenews.cn/221/c7f05e98509a4ac786eba2340adfa7af/playlist.m3u8",路口直播
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=221&num=3
+#EXTINF:-1 tvg-logo="https://img11.iqilu.com/223/2020/03/04/a37f8cc297e44b58d76b984d2f60d0b2.jpg",夏津电视台综合频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=223&num=0
+#EXTINF:-1 tvg-logo="https://img11.iqilu.com/223/2020/03/04/84a8fd5139ce955aede3da26931adb2c.jpg",夏津电视台公共频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=223&num=1
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/225/2020/03/15/ba8984b49547d66568524b8671c69bb2.jpeg",山东卫视
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=225&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/225/2020/03/15/2699d829cda5f13d8846d48cc349ae08.jpeg",少儿频道
@@ -363,8 +347,10 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=227&num=1
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/227/2022/09/28/2331f9fb691648c1d89d071af98f842e.jpg",FM926视频直播
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=227&num=2
-#EXTINF:-1 tvg-logo="https://img11.litenews.cn/233/2023/05/10/25618ac7d580f68e56e28ce4206e903f.jpg",市中电视台
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=233&num=0
+#EXTINF:-1 tvg-logo="https://img11.iqilu.com/231/2020/04/09/4bdc5406a4ba168922e0c57dc45816fb.jpg",兖州综合频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=231&num=0
+#EXTINF:-1 tvg-logo="https://img11.iqilu.com/231/2020/04/09/f177ef6e6b618fd085840b185a7fb125.jpg",兖州生活频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=231&num=1
 #EXTINF:-1 tvg-logo="",禹城综合频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=235&num=0
 #EXTINF:-1 tvg-logo="",禹城综艺频道
@@ -383,10 +369,6 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=241&num=2
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/243/2020/05/28/8ab306737cde382909862430af226a7a.jpg",综合频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=243&num=0
-#EXTINF:-1 tvg-logo="",莱山综合
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=245&num=0
-#EXTINF:-1 tvg-logo="",莱山影视
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=245&num=1
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/249/2020/06/17/000c49aa42a82e45f6a0d8106d61c435.jpg",滨城TV
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=249&num=0
 #EXTINF:-1 tvg-logo="",齐河综合频道
@@ -395,8 +377,6 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=253&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/253/2020/09/22/ba2ef2676fa90b581f6dc4f5e9d31000.png",莱西生活频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=253&num=1
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/255/2020/09/11/f0f09708823f26f18ed265505a8b8e8d.png",海阳综合
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=255&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/257/2020/09/10/6a7387caf50497e50862030c58425164.jpg",平阴综合频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=257&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/257/2020/09/10/d1507e1b5c265e5cab92c0e7f73e0bdf.jpg",平阴乡村振兴
@@ -415,12 +395,6 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=267&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/267/2020/08/24/66fd3ca212a2ab38cce61082653ac3e4.jpg",城市生活频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=267&num=1
-#EXTINF:-1 tvg-logo="",新闻综合
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=269&num=0
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/273/2020/09/15/312889d23498e6ea20e925ebcca8132d.jpg",嘉祥新闻综合频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=273&num=0
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/273/2020/09/15/312889d23498e6ea20e925ebcca8132d.jpg",嘉祥生活频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=273&num=1
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/277/2022/07/15/242e42f9973465848034645f998d9327.png",沾化综合
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=277&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/277/2023/02/25/6d1101d5bc84fdfeba7631838fbd7668.png",沾化综艺
@@ -443,42 +417,36 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=299&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/299/2020/12/09/1a2f0d14de381981d77c149b649167e3.jpg",文化旅游频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=299&num=1
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/301/2022/10/15/b65e52f8ae484da5af0c219f17948178.png",汶上综合频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=301&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/303/2020/12/11/86ce406556d6525424675b60522d6a59.jpg",济铁频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=303&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/305/2021/05/07/5a4752e61c5c2c074490119ceb0dc641.png",综合频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=305&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/305/2021/05/07/b2777021f2fa88dc90500d50b23b6b2d.png",生活频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=305&num=1
+#EXTINF:-1 tvg-logo="https://img11.iqilu.com/353/2022/03/16/c64c54f1bf565eabe2563b8c79ecd2b6.jpg",济铁频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=353&num=0
 #EXTINF:-1 tvg-logo="",淄博高新频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=401&num=0
 #EXTINF:-1 tvg-logo="https://img11.iqilu.com/421/2022/09/26/43ddf0d03c3d51602cc981f214ef0ddf.jpeg",潍坊高新区
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=421&num=0
-#EXTINF:-1 tvg-logo="",综合频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=423&num=0
-#EXTINF:-1 tvg-logo="",新闻频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=423&num=1
-#EXTINF:-1 tvg-logo="",娱乐频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=423&num=2
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/179/2019/12/10/8203f05252f2875d46a5d74ec804cf43.jpg",新闻综合频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=519&num=0
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/179/2019/12/10/b1a10dda1e3a2b59265641d0a20a10b7.jpg",经济生活频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=519&num=1
-#EXTINF:-1 tvg-logo="https://img11.iqilu.com/179/2020/12/30/0ea68ecfb36ae47e4a6f78f03b40fbfd.jpg",图文频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=519&num=2
 #EXTINF:-1 tvg-logo="https://img11.litenews.cn/537/2023/05/03/f582654a7005568a9ad9bbbe823a1022.png",新闻综合
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=537&num=0
 #EXTINF:-1 tvg-logo="https://img11.litenews.cn/537/2023/05/03/f582654a7005568a9ad9bbbe823a1022.png",公共频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=537&num=1
 #EXTINF:-1 tvg-logo="https://img11.litenews.cn/537/2023/05/03/f582654a7005568a9ad9bbbe823a1022.png",科教频道
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=537&num=2
-#EXTINF:-1 tvg-logo="",枣庄高新区
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=623&num=0
-#EXTINF:-1 tvg-logo="",新闻综合频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=657&num=0
-#EXTINF:-1 tvg-logo="",民生频道
-https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=657&num=1
+#EXTINF:-1 tvg-logo="https://img11.litenews.cn/635/2023/06/16/10eb8ca7a9579564d19e8da968f5301e.png",新闻综合
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=635&num=0
+#EXTINF:-1 tvg-logo="https://img11.litenews.cn/635/2023/06/16/70b2c2cbfc6335a1f290d26993645f05.png",经济生活
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=635&num=1
+#EXTINF:-1 tvg-logo="https://img11.litenews.cn/635/2023/06/16/7dc04489203121086323a1002652354f.png",影视综艺
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=635&num=2
+#EXTINF:-1 tvg-logo="https://img11.litenews.cn/635/2023/06/16/52d093b6da5aa768021280c51decff50.png",科教文旅
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=635&num=3
+#EXTINF:-1 tvg-logo="https://img11.iqilu.com/227/2020/04/13/d5dd6313cd6afcb154c3626b2069a7f6.png",生活频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=672&num=0
+#EXTINF:-1 tvg-logo="",综合频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=672&num=1
 #EXTINF:-1 tvg-logo="https://img11.litenews.cn/683/2024/10/24/061a85e9e8d4fbb2ff8793ced676bb75.jpg",甘肃卫视
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=683&num=0
 #EXTINF:-1 tvg-logo="https://img11.litenews.cn/683/2024/10/24/d7273a1615bfe26cdded56f695036df3.jpg",经济频道
@@ -495,3 +463,5 @@ https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgi
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=683&num=6
 #EXTINF:-1 tvg-logo="https://img11.litenews.cn/686/2026/02/10/677cfcfa85b54a11afb1d63b68f25817.jpg",黑龙江卫视
 https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=686&num=0
+#EXTINF:-1 tvg-logo="",新闻综合频道
+https://fastly.jsdelivr.net/k-web/ku9/js/gh/plsy1/iqilu@master/ku9/iqilu.js?orgid=689&num=0
